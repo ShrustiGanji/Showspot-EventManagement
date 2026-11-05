@@ -1,0 +1,32 @@
+
+.favorites-section {
+  padding: 70px 6%;
+  background: #191724;
+  color: white;
+  scroll-margin-top: 80px;
+}
+
+.favorites-heading {
+  margin-bottom: 35px;
+}
+
+.favorites-heading > p {
+  color: #a78bfa;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.favorites-heading h2 {
+  margin: 12px 0;
+  font-size: clamp(30px, 4vw, 42px);
+}
+
+.favorites-heading span {
+  color: #b9b7c8;
+}
+
+.empty-favorites {
+  color: #c4b5fd;
+  padding: 20px 0;
+}
